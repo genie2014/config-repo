@@ -1,0 +1,11 @@
+---
+spring:
+  profiles: development
+  
+name: foo-development
+
+---
+spring:
+  profiles: production
+  
+name: foo-production
