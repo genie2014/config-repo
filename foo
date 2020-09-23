@@ -2,10 +2,10 @@
 spring:
   profiles: development
   
-name: foo-development
+name: development
 
 ---
 spring:
   profiles: production
   
-name: foo-production
+name: production
