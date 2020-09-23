@@ -1,11 +1,11 @@
 ---
 spring:
-  profiles: development
+  profile: development
   
 name: development
 
 ---
 spring:
-  profiles: production
+  profile: production
   
 name: production
