@@ -1,0 +1,11 @@
+---
+spring:
+  profile: dev
+  
+name: multi-profile-dev
+
+---
+spring:
+  profile: prod
+  
+name: multi-profile-prod
