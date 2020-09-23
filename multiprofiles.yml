@@ -1,11 +1,13 @@
+name: multi-profile
+
 ---
 spring:
-  profile: dev
+  profiles: dev
   
 name: multi-profile-dev
 
 ---
 spring:
-  profile: prod
+  profiles: prod
   
 name: multi-profile-prod
