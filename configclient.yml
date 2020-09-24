@@ -8,4 +8,4 @@ name: development properties in ConfigClient application.
 spring:
   profiles: prod
   
-name: production4 properties in ConfigClient application.
+name: production5 properties in ConfigClient application.
